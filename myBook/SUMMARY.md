@@ -8,3 +8,4 @@
 	* [zuul](part2/zuul.md)
 	* [hystrix](part2/hystrix.md)
 	* [eureka](part2/eureka.md)
+* [Marketing](part3/README.md)
