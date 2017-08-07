@@ -17,6 +17,7 @@
 * [Zuul:　服务网关](zuul.md)
 * Ribbon:　客户端框架
 * [Hystrix: 服务容错组件](hystrix.md)
+* [NGINX SpringCloud ELK: 架构](all.md)
 
 
 

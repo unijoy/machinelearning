@@ -8,4 +8,5 @@
 	* [zuul](part2/zuul.md)
 	* [hystrix](part2/hystrix.md)
 	* [eureka](part2/eureka.md)
+	* [架构](part2/all.md)
 * [Marketing](part3/README.md)
