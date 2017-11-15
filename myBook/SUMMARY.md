@@ -10,9 +10,4 @@
   * [eureka](part2/eureka.md)
   * [架构](part2/all.md)
 * [Marketing](part3/README.md)
-* \[About Me\]\(part4/README.md\)
-* 
-
-
-
-
+* [About Me](part4/README.md)
