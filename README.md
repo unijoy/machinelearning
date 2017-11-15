@@ -6,3 +6,5 @@ my ml learning book:
 
 gitbook build
 
+cp -rf ./\_book/\* ../../unijoy.github.io/
+
