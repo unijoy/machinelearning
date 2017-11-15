@@ -1,2 +1,4 @@
 # machinelearning
-my ml learning book
+
+my ml learning book:gitbook build
+
